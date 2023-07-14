@@ -1,4 +1,4 @@
-# [Metaverse-Product-Showcase](https://coustomthread3d.netlify.app/)
+# [Metaverse-Product-Showcase](https://project-threejs-ai-dalle2.onrender.com/)
 Introduction
 Many large corporations already use 3D graphics to showcase their products. It is a ThreeJS 3D product website infused with the power of artificial intelligence!
 
